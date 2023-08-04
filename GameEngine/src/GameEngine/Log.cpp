@@ -25,6 +25,5 @@ namespace GameEngine
 	{
 		return s_ClientLogger;
 	}
-
 }
 
